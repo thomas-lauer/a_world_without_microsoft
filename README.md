@@ -10,8 +10,11 @@ Eine gute Alternative für das WIndows 11 Desktop System ist [Linux Mint](https:
 Als Alternative zu Windows Server Betriebsystemen wird sehr oft Ubuntu und Debian eingesetzt.
 
 ## Microsoft SQL Server
-Die alternative zum Microsoft SQL Server ist MYSQL, MariaDB oder PostgreSQL. 
-Hier muss natürlicj der Hersteller der Software diese Plattformen unterstützen  
+Die alternative zum Microsoft SQL Server ist 
+MYSQL  
+MariaDB  
+PostgreSQL  
+Hier muss natürlich der Hersteller der Software diese Plattformen unterstützen  
 
 ## TEAMS
 Für den Bereich Videokonferenzen gibt es viele Alternativen z.B.  
@@ -22,7 +25,7 @@ Für den Bereich Collaboration gibt es:
 [element.io](https://element.io/)   
 
 ## Onedrive
-Hier ist die ALternativer [NextCloud](https://nextcloud.com/)  
+Hier ist die Alternativer [NextCloud](https://nextcloud.com/)  
 
 ## Sharepoint
 [Nextcloud](https://nextcloud.com/)  
