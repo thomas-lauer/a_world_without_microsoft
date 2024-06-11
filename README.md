@@ -63,6 +63,6 @@ Die beste Alternative zu Visio ist [Draw.io](https://app.diagrams.net/)
 
 ## Whiteboard
 [Excalidraw](https://excalidraw.com/)  
-
-
-
+  
+  
+Die Liste ist sicherlich nicht vollständig. Ständig kommen neue Programme hinzu. 
