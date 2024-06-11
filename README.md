@@ -63,6 +63,7 @@ Die beste Alternative zu Visio ist [Draw.io](https://app.diagrams.net/)
 
 ## Onenote
 [LogSeq](https://logseq.com/)  
+[Xournal++](https://xournalpp.github.io/)  
 
 ## Whiteboard
 [Excalidraw](https://excalidraw.com/)  
