@@ -10,7 +10,7 @@ Eine gute Alternative für das WIndows 11 Desktop System ist [Linux Mint](https:
 Als Alternative zu Windows Server Betriebsystemen wird sehr oft Ubuntu und Debian eingesetzt.
 
 ## Microsoft SQL Server
-Die alternative zum Microsoft SQL Server ist 
+Die alternative zum Microsoft SQL Server ist  
 MYSQL  
 MariaDB  
 PostgreSQL  
